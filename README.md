@@ -49,6 +49,7 @@ Twitter Plugin for WordPress [Twitter-Post](https://github.com/paulo-correia/twi
 ## U
 
 ## V
+Object Oriented CPF Validation PHP [VALIDA_CPF](https://github.com/paulo-correia/php_oo_valida_cpf)
 
 ## W
 WordPress Shortcode Pagination [WP_Shortcode_Pagination](https://github.com/paulo-correia/WP_Shortcode_Pagination)
