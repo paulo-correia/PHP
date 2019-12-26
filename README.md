@@ -2,6 +2,7 @@
 Progração em PHP
 
 ## A
+Autload.php com o Composer [Autload Composer](https://github.com/paulo-correia/Autoload_Composer)
 
 ## B
 
