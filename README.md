@@ -57,6 +57,8 @@ WordPress Shortcode Pagination [WP_Shortcode_Pagination](https://github.com/paul
 
 WordPress Shotcode User Picture [WP_Shortcode_User_Pic](https://github.com/paulo-correia/WP_Shortcode_User_Pic)
 
+WordPress Composer Install [WP Composer Install](https://github.com/paulo-correia/WP_Composer_Install)
+
 ## X
 
 ## Y
