@@ -9,6 +9,8 @@ Autoload.php com o Composer [Autoload Composer](https://github.com/paulo-correia
 ## C
 Exemplos de GET e POST usando o Curl [Curl_Help](https://github.com/paulo-correia/Curl_Help)
 
+Geração de Captcha [Captcha_Simples](https://github.com/paulo-correia/PHP_Captcha)
+
 ## D
 Anti DDOS Plugin for WordPress [DDOS-Attack](https://github.com/paulo-correia/ddos-attack)
 
