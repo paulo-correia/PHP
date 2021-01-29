@@ -65,6 +65,8 @@ WordPress Composer Install [WP Composer Install](https://github.com/paulo-correi
 
 WordPress Theme Jumbotron [Theme_Jumbotron](https://github.com/paulo-correia/WP_Theme_Jumbotron)
 
+WordPress Theme Clean [Theme_Clean](https://github.com/paulo-correia/WP_Theme_Clean)
+
 ## X
 
 ## Y
