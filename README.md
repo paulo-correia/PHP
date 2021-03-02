@@ -29,6 +29,7 @@ Anti DDOS Plugin for WordPress [DDOS-Attack](https://github.com/paulo-correia/dd
 ## K
 
 ## L
+Envio de currículos feito em Laravel [Laravel_Resume_Upload](https://github.com/paulo-correia/Laravel_Resume_Upload)
 
 ## M
 
