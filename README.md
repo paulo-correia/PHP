@@ -1,5 +1,5 @@
 # PHP
-Progração em PHP
+Progração em PHP (Laravel, Orientado a Objeto, Procedural e WordPress)
 
 ## A
 Autoload.php com o Composer [Autoload Composer](https://github.com/paulo-correia/Autoload_Composer)
